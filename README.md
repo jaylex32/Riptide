@@ -2,8 +2,6 @@
 
 Riptide: A sleek, efficient Tidal downloader for Windows. Easily grab tracks, albums, playlists, and videos in high quality. Features include intuitive search, multiple audio quality options, and customizable settings. Build your offline music library with ease while preserving metadata and album art.
 
-![Riptide Main Interface](path/to/main_interface.png)
-*Riptide's sleek and user-friendly main interface*
 
 ## Features
 
@@ -14,7 +12,7 @@ Riptide: A sleek, efficient Tidal downloader for Windows. Easily grab tracks, al
 - Metadata and album art preservation
 - User-friendly interface
 
-![Riptide Search Function](path/to/search_function.png)
+![Riptide Search Function](Assets/Riptide_Search.png)
 *Powerful search functionality to find your favorite music*
 
 ## Requirements
@@ -30,7 +28,7 @@ Riptide: A sleek, efficient Tidal downloader for Windows. Easily grab tracks, al
 3. Unzip the Archive file
 4. Launch Riptide and log in with your Tidal account
 
-![Riptide Login Screen](path/to/login_screen.png)
+![Riptide Login Screen](Assets/Riptide_Login.png)
 *Simple and secure login process*
 
 ## Usage
@@ -42,14 +40,14 @@ Riptide: A sleek, efficient Tidal downloader for Windows. Easily grab tracks, al
 5. Click the download button
 6. Monitor download progress in the download queue
 
-![Riptide Download Process](path/to/download_process.png)
+![Riptide Download Process](Assets/Riptide_Downloads.png)
 *Easy-to-use download interface with progress tracking*
 
 ## Configuration
 
 - Go to the Settings menu to customize your download path, file naming conventions, and default quality settings
 
-![Riptide Settings Menu](path/to/settings_menu.png)
+![Riptide Settings Menu](Assets/Riptide_Settings.png)
 *Customize Riptide to suit your preferences*
 
 ## Known Issues
