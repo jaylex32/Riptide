@@ -70,3 +70,9 @@ If you encounter any problems or have any suggestions, please open an issue on t
 ---
 
 Enjoy your music with Riptide!
+
+
+
+
+### If you like my work and want to buy me a coffee to support me, you can do so here: https://buymeacoffee.com/jayross
+
